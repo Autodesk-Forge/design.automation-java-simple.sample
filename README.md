@@ -29,6 +29,8 @@ The Java client will pick them up from there.
 
 Please post your questions to [StackOverflow using the `autodesk-designautomation` tag](http://stackoverflow.com/questions/tagged/autodesk-designautomation).
 
+![thumbnail](/default.png)
+
 ## License
 
 These samples are licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
