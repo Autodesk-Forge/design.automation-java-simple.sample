@@ -29,7 +29,7 @@ The Java client will pick them up from there.
 
 Please post your questions to [StackOverflow using the `autodesk-designautomation` tag](http://stackoverflow.com/questions/tagged/autodesk-designautomation).
 
-![thumbnail](/default.png)
+![thumbnail](/thumbnail.png)
 
 ## License
 
